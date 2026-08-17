@@ -1,0 +1,27 @@
+NOTICE
+
+geostats is an original research program and the accompanying source.
+
+Copyright (c) 2026 Jetspace Research.
+
+The mathematical facts treated here are drawn from the primary source texts
+listed in REFERENCES.md. Those texts are not redistributed in this repository
+and are not licensed by this NOTICE. Obtain them from their publishers.
+
+In particular:
+
+  - T. Bonnesen and W. Fenchel, Theorie der konvexen Koerper (1934);
+    English translation, Theory of Convex Bodies (BCS Associates, 1987).
+  - Luis A. Santalo, Integral Geometry and Geometric Probability,
+    2nd ed., Cambridge University Press, 2004.
+  - S. Amari, O. E. Barndorff-Nielsen, R. E. Kass, S. L. Lauritzen, and
+    C. R. Rao, Differential Geometry in Statistical Inference, IMS Lecture
+    Notes-Monograph Series Vol. 10, 1987.
+  - Shun-ichi Amari, Differential-Geometrical Methods in Statistics,
+    Lecture Notes in Statistics Vol. 28, Springer, 1985.
+  - N. Ikeda and S. Watanabe, Stochastic Differential Equations and
+    Diffusion Processes, 2nd ed., North-Holland, 1989.
+
+License: LICENSE (Jetspace Research License 1.0).
+
+Support: https://buymeacoffee.com/jetbundle

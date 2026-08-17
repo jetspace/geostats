@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geostats"
+version = "0.1.0"
+description = "Geometric inference, statistics, and stochastics. Convex bodies, Crofton, Fisher geometry, and manifold diffusions."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "LicenseRef-Jetspace-Research" }
+authors = [
+  { name = "Jetspace Research" },
+]
+dependencies = [
+  "numpy>=1.26",
+  "scipy>=1.11",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+plot = [
+  "plotly>=5.18",
+]
+notebooks = [
+  "plotly>=5.18",
+  "ipykernel>=6.0",
+  "nbformat>=5.0",
+  "nbclient>=0.7",
+]
+all = [
+  "geostats[dev,plot,notebooks]",
+]
+
+[project.urls]
+Homepage = "https://github.com/jetspace/geostats"
+Support = "https://buymeacoffee.com/jetbundle"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q"

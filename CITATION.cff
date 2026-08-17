@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "geostats: Geometric Inference, Statistics, and Stochastics"
+message: >
+  Cite this work as Jetspace Research, together with the primary texts
+  in REFERENCES.md.
+type: software
+authors:
+  - name: "Jetspace Research"
+abstract: >
+  Lecture notebook and NumPy kernels for convex bodies, Crofton formulae,
+  Fisher geometry and alpha-connections, Efron curvature, and projected
+  Brownian motion on the sphere.
+keywords:
+  - convex bodies
+  - integral geometry
+  - information geometry
+  - statistical manifolds
+  - manifold diffusions
+license: LicenseRef-Jetspace-Research
+repository-code: "https://github.com/jetspace/geostats"
+version: 0.1.0
+date-released: "2026-08-16"

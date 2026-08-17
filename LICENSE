@@ -1,0 +1,89 @@
+Jetspace Research License 1.0
+
+Copyright (c) 2026 Jetspace Research.
+
+This license governs the original exposition, source code, figures, tests,
+arrangement, and documentation in this repository (the "Work"). It does not
+govern the primary source texts cited in REFERENCES.md. Those works
+remain the property of their authors and publishers. Reading this repository
+does not grant any license in Bonnesen and Fenchel, Santalo, Amari,
+Barndorff-Nielsen, Kass, Lauritzen, Rao, Ikeda and Watanabe, or any other
+cited work.
+
+1. Grant for study and non-commercial research
+
+Subject to the conditions below, Jetspace Research grants you a worldwide,
+royalty-free, non-exclusive, non-transferable license to:
+
+  (a) copy, read, and run the Work for private study, teaching, and
+      non-commercial academic research;
+  (b) quote short passages (fewer than 250 words of original prose, or
+      individual displayed formulae) with attribution;
+  (c) modify the Work for your own private study, provided modified copies
+      are not redistributed.
+
+2. Conditions
+
+  (a) Attribution. You must retain this copyright notice, this license, the
+      NOTICE file, and REFERENCES.md.
+  (b) No trademark license. This license does not grant rights in the names
+      Jetspace Research, geostats, or related marks. You may not imply
+      endorsement.
+  (c) No sublicense of third-party texts. You may not represent cited
+      theorems as original to this Work. Cite the primary sources.
+  (d) Share-alike for public forks. If you publicly distribute a modified
+      version of the Work, you must do so under this same license and must
+      not remove citations.
+
+3. What requires written permission
+
+Before any of the following, consult Jetspace Research and obtain written
+permission. This is an intellectual-property condition, not a courtesy:
+
+  (a) commercial use, including use in a product, service, funded consulting
+      engagement, or production system;
+  (b) redistribution of substantial portions of the original prose as a
+      standalone publication without citation of this Work and the primary
+      sources;
+  (c) removing or replacing this license;
+  (d) using the Work to train or evaluate a commercial model offered as a
+      paid service, unless the use is strictly internal and non-commercial.
+
+Requests may be opened as a licensing discussion with the maintainer. Support
+channels such as https://buymeacoffee.com/jetbundle are not a substitute for
+written permission.
+
+4. Contributions
+
+By submitting a patch or pull request you represent that you have the right
+to submit it, and you license that contribution to Jetspace Research under
+this same license.
+
+5. Termination
+
+If you breach a material term, the grant in Section 1 terminates. If you cure
+the breach within thirty (30) days of notice, the grant reinstates. Sections
+6 and 7 survive termination.
+
+6. Disclaimer
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. Limitation of liability
+
+IN NO EVENT SHALL JETSPACE RESEARCH BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE
+OR OTHER DEALINGS IN THE WORK.
+
+8. Severability
+
+If a provision is held unenforceable, the remaining provisions continue in
+effect.
+
+9. Entire license
+
+This file is the entire license for the Work. Permissive licenses such as MIT
+or Apache 2.0 do not apply unless Jetspace Research says so in writing.
